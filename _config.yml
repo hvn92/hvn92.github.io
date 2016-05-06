@@ -4,7 +4,7 @@ title: Hoang Nguyen
 # description: > # this means to ignore newlines until "baseurl:"
 #   This is a web presence for Hoang Viet Nguyen, a Computer Science student at Clark University, also a web developer
 #   and competitive programmer.
-# baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://hoangvietnguyen.github.io" # the base hostname & protocol for your site
 # twitter_username: viethoang2812
 # github_username:  hoangvietnguyen

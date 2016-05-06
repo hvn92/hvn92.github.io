@@ -1,0 +1,28 @@
+.board {
+  margin-top: 100px;
+  margin-left: 30%;
+  width: 40%;
+  border: solid 3px #e5e5e5;
+}
+
+.board td {
+  width: 33%;
+  position: relative;
+}
+
+.board td:after {
+  content: "";
+  display: block;
+  margin-top: 100%;
+}
+
+.marker {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 30%;
+  width: 50%;
+  margin: -15% 0 0 -25%;
+  text-align: center;
+
+}
